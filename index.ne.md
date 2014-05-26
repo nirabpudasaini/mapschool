@@ -1,7 +1,7 @@
 ---
 title: mapschool
 layout: default
-language: it
+language: ne
 ---
 
 # नक्सा बिध्यालय
